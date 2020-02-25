@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "cata_souls",
+    "name": "Cata Souls",
+    "authors": [ "Soupster89" ],
+    "maintainers": [ "Soupster89" ],
+    "description": "Adds some Dark Souls content: professions, weapons, MA styles and techniques for the DS enthusiast!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
